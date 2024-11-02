@@ -1,1 +1,1 @@
-# MLOps-sentimen-analytics
+# MLOps-sentiment-analysis
